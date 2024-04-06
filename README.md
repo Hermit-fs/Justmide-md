@@ -1,5 +1,4 @@
-# Justmide-md
-meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖  youtube.com/SuhailTechInfo
+
 <h1 align="center"> Suhail Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
@@ -11,7 +10,7 @@ meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling mes
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/758549f0de2219884f387.jpg">
+    <img alt="Suhail-Md" height="400" src=https://telegra.ph/file/8013c3ae7107b82c8a2e8.jpg">
   </a>
 </p>
     
